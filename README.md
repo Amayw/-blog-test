@@ -12,3 +12,6 @@ console.log(a)
 ```
 
 [不开心的话点这里](https://www.bilibili.com/)
+
+这是一张图片
+![picture](http://img1.imgtn.bdimg.com/it/u=2632124489,3876511548&fm=26&gp=0.jpg)
